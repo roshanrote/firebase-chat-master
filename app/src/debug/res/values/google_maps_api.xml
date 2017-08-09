@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=AF:60:54:FD:60:8D:8A:E5:26:A0:F3:21:ED:3A:D2:51:4B:60:A9:73%3Bcom.engeniouspark.android.roro.firebasechat.ui.activities
+
+    You can also add your credentials to an existing key, using this line:
+    AF:60:54:FD:60:8D:8A:E5:26:A0:F3:21:ED:3A:D2:51:4B:60:A9:73;com.engeniouspark.android.roro.firebasechat.ui.activities
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        YOUR_KEY_HERE
+    </string>
+</resources>
